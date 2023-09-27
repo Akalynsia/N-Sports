@@ -1,0 +1,25 @@
+/* Bu slash-star ile başlayan ve star-slash ile biten bir CSS yorumunudur. Stili etkilemeden notlar bırakabileceğimiz yer burasıdır. */
+
+/* Başlık elementi değiştirildi */
+h1 {
+    color:red;
+    text-align:center;
+    letter-spacing:5px;
+    text-decoration:blue wavy underline;
+  }
+  
+  /* Alt başlık elementleri değiştirildi */
+  h2 {
+    color:green;
+    text-decoration: blue wavy underline;
+  }
+  /* Bayağı en alt başlıkların elementleri değiştirildi */
+  h3 {
+    color:blue;
+    text-decoration:red wavy underline;
+  }
+  /* paragraf elementi değiştirildi */
+  p {
+    color:brown;
+  }
+  /* son anda değiştirmekten vazgeçtim */
